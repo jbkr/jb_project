@@ -18,3 +18,7 @@
 ##### Pull
 
 * `git pull`
+
+### Collaboration
+
+#### Pull request
