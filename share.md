@@ -8,3 +8,7 @@
 5. merge
 
 ### On VSCODE
+1. make a new branch
+2. modify a file
+3. add & commit
+4. push
