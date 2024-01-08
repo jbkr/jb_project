@@ -15,3 +15,6 @@
 * <code>git commit -m *message*</code>
 * `git push`
 
+##### Pull
+
+* `git pull`
