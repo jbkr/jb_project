@@ -21,4 +21,5 @@
 
 ### Collaboration
 
-#### Pull request
+#### Shared repository model
+* Settings - Collabrators - Add people
