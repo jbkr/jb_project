@@ -4,3 +4,4 @@
 2. And then, make a new branch
 3. modify
 4. create new pull request
+5. merge
