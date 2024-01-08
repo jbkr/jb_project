@@ -9,5 +9,9 @@
 ### Workflow
 
 #### From local to remote
+##### Push
 
-1. <code>git push</code>
+* `git add --all`
+* <code>git commit -m *message*</code>
+* `git push`
+
