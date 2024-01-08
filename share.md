@@ -1,8 +1,10 @@
 # Shared repository model
 
-When there's no conflict between branches, repository would be updated automatically.
+In the shared repository model, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. Pull requests are useful in this model as they initiate code review and general discussion about a set of changes before the changes are merged into the main development branch. This model is more prevalent with small teams and organizations collaborating on private projects.
 
-To create a new pull request, repository should be modified using a new branch.
+>When there's no conflict between branches, repository would be updated automatically.
+
+>To create a new pull request, repository should be modified using a new branch.
 
 ### On github
 1. First, add people to contribute
